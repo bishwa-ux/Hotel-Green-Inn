@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Green Inn Landing Page",
+  "description": "A high-converting, fully responsive single-page website for Hotel Green Inn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
